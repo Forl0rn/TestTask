@@ -1,0 +1,16 @@
+{
+  "EDITOR": "Editor",
+  "VIEWER": "Viewer",
+  "ADD_ELEMENT": "Add Element",
+  "COPY_ELEMENT": "Copy Element",
+  "DELETE_ELEMENT": "Delete Element",
+  "SAVE": "Save",
+  "CANCEL": "Cancel",
+  "DATE_OF_COMPLETION": "Date of completion",
+  "DATE_OF_CREATION": "Date of creation",
+  "ACTIONS": "Actions",
+  "NAME": "Name",
+  "MU": "Move Up",
+  "MD": "Move Down",
+  "DESC": "Description"
+}

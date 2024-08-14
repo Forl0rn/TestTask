@@ -1,0 +1,10 @@
+{
+    "TITLE": "Element Manager",
+    "EDITOR": "Editor",
+    "VIEWER": "Viewer",
+    "ADD_ELEMENT": "Add Element",
+    "COPY_ELEMENT": "Copy Element",
+    "DELETE_ELEMENT": "Delete Element",
+    "SAVE": "Save",
+    "CANCEL": "Cancel"
+  }
